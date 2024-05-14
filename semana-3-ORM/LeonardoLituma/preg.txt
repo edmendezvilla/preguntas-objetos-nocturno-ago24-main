@@ -1,0 +1,24 @@
+
+Pregunta 1: ¿Qué es un ORM (Object-Relational Mapper) en el contexto de NestJS?
+
+A. Un framework de desarrollo web que facilita la construcción de aplicaciones con NestJS.
+B. Una biblioteca de JavaScript que simplifica la gestión de estado en aplicaciones NestJS.
+C. Una herramienta que permite mapear objetos en código JavaScript a tablas y registros en una base de datos relacional.
+
+Respuesta Correcta: C. 
+
+Pregunta 2: ¿Cuáles son las ventajas de usar ORMs en NestJS?
+
+A. Abstracción de SQL, Reducción de Código Boilerplate, Facilidad de Mantenimiento, Mayor Productividad, Mejor Testabilidad.
+B. Simplicidad, Facilidad de Aprendizaje, Rendimiento Óptimo.
+C. Flexibilidad, Soporte Multiplataforma, Compatibilidad con Legacy Code.
+
+Respuesta Correcta: A. 
+
+Pregunta 3: ¿Cuáles son algunos ORMs populares para NestJS?
+
+A. TypeORM, Mongoose, Prisma.
+B. Express, Fastify, Hapi.
+C. NestJS, Angular, React.
+
+Respuesta Correcta: A. 

@@ -1,0 +1,31 @@
+Preguntas y Respuestas sobre la Arquitectura de NestJS
+
+Pregunta 1: ¿Qué es NestJS?
+
+Opciones:
+
+A. Un framework JavaScript para el desarrollo de aplicaciones web del lado del servidor.
+B. Un lenguaje de programación funcional para JavaScript.
+C. Una biblioteca de JavaScript para la gestión de estado en aplicaciones web.
+
+Respuesta: A. Un framework JavaScript para el desarrollo de aplicaciones web del lado del servidor.
+
+Pregunta 2: ¿Cuáles son los componentes principales de la arquitectura de NestJS?
+
+Opciones:
+
+A. Módulos, Inyección de Dependencias, Controladores, Servicios, Repositorios.
+B. Funciones, Objetos, Clases, Métodos, Propiedades.
+C. Componentes, Directivas, Pipes, Módulos, Servicios.
+
+Respuesta: A. Módulos, Inyección de Dependencias, Controladores, Servicios, Repositorios.
+
+Pregunta 3: ¿Qué ventajas ofrece la arquitectura de NestJS?
+
+Opciones:
+
+A. Modularidad, Escalabilidad, Testabilidad, Productividad, Comunidad Vibrante.
+B. Simplicidad, Facilidad de Aprendizaje, Rendimiento Óptimo.
+C. Flexibilidad, Soporte Multiplataforma, Compatibilidad con Legacy Code.
+
+Respuesta: A. Modularidad, Escalabilidad, Testabilidad, Productividad, Comunidad Vibrante.

@@ -1,0 +1,17 @@
+¿Qué paradigma de programación NO es un pilar fundamental de Nest.js?[1]
+A. Programación orientada a objetos (POO)
+B. Programación funcional (FP)
+C. Programación imperativa
+ANSWER: C
+
+¿Qué herramienta oficial de Nest.js se utiliza para crear API RESTful de manera sencilla y eficiente?[1]
+A. Nest.js RESTful API Module
+B. Nest.js ORM
+C. Nest.js CLI
+ANSWER: A
+
+¿Qué patrón de diseño promueve Nest.js a través de su estructura modular?[1]
+A. Patrón Singleton
+B. Patrón Módulo
+C. Patrón Facade
+ANSWER: B
